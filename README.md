@@ -51,4 +51,3 @@ Driven by curiosity and continuous learning, I’m always exploring new technolo
 - 🛠️ Developed **Movies App** and other mobile projects with Firebase, REST API integration  
 - 🥇 Earned certifications from **Route Academy**
 
----
