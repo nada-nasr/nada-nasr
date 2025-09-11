@@ -22,7 +22,9 @@ Driven by curiosity and continuous learning, I’m always exploring new technolo
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadanasr)
-[![Gmail](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)]("nadanasr204@gmail.com")
+  <a href="mailto:nadanasr204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
 </div>
 
